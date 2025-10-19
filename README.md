@@ -2,8 +2,11 @@
 **
 
 Contributions:
+
 Hrrishita - data preprocessing & model training and evaluation
+
 Lara - Improving model peformance
+
 Dinmukhammed - Analysis and Comparison (MSE and R2)
 
 1. Project Overview
