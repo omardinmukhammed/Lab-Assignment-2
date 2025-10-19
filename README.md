@@ -1,5 +1,6 @@
 **Predicting Health Insurance Charges Using Linear and Ridge Regression with Cross-Validation
 **
+
 Contributions:
 Hrrishita - data preprocessing & model training and evaluation
 Lara - Improving model peformance
