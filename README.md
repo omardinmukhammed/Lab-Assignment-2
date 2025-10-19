@@ -1,5 +1,10 @@
 **Predicting Health Insurance Charges Using Linear and Ridge Regression with Cross-Validation
 **
+Contributions:
+Hrrishita - data preprocessing & model training and evaluation
+Lara - Improving model peformance
+Dinmukhammed - Analysis and Comparison (MSE and R2)
+
 1. Project Overview
 This project focuses on developing and evaluating regression models to predict individual health insurance charges based on demographic and lifestyle factors.
 Two models were implemented and compared: Linear Regression and Ridge Regression, with cross-validation applied to optimize model performance.
